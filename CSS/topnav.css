@@ -1,0 +1,39 @@
+.topnav ul {
+    border-bottom: 5px solid #B71C1C;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ce1e42;
+    max-height: 70px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.topnav ul li {
+    float: right;
+}
+
+.topnav ul li a {
+    font-size: 16px;
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 23px 20px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.span-logo img {
+  margin-left: 20px;
+    display: inline-block;
+    vertical-align: top;
+    height: 70px;
+    min-height: 70px;
+    width: 75px;
+    min-width: 70px;
+    float: left;
+    padding: 2px;
+}

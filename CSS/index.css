@@ -1,0 +1,51 @@
+body{
+    background-image: url(../img/imgx/bg.jpg);
+    background-repeat:no-repeat;
+    width:100%;
+    background-size:cover;
+}
+/*------------------------------------------------------*/
+#form{
+    position: absolute;
+    right: 15.5vw;
+    top: 3vh;
+}
+.login{
+    position: relative;
+    right: -10px;
+}
+.Nouveau1{
+    position: absolute;
+    right: 365px;
+    top: 65px;
+}
+.Nouveau2{
+    position: absolute;
+    right: 175px;
+    top: 65px;
+}
+/*------------------------------------------------------*/
+.logo{
+    width: 40vmax;
+    position: absolute;
+    top: 40px;
+    left: 15vw ;
+}
+
+/*------------------------------------------------------*/
+#self_carousel{
+    position: absolute;
+    left: 180px;
+    top: 130px;
+    background: #F2E1F3;
+    width: 70vw;
+}
+#affiche-droite{
+    position: absolute;
+    right: -30px;
+}
+#affiche-gauche{
+    position: absolute;
+    left: -30px;
+}
+/*------------------------------------------------------*/
